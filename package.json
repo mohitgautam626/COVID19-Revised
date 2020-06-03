@@ -1,6 +1,6 @@
 {
   "homepage":"https://mohitgautam626.github.io/COVID19-Revised",
-  "name": "covid",
+  "name": "covidr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
