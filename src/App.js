@@ -21,10 +21,9 @@ function App() {
 </div>
 </div>
 </div>
-<Home/>
       <Router>
       <Switch>
-      //<Route path="/" exact component={Home} />
+      <Route path="/" exact component={Home} />
       <Route path="/country" component={Country}/>
       <Route path="/district" component={District}/>
       </Switch>
