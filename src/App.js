@@ -21,6 +21,7 @@ function App() {
 </div>
 </div>
 </div>
+<Home/>
       <Router>
       <Switch>
       <Route path="/" exact component={Home} />
