@@ -36,7 +36,7 @@ class Home extends Component{
     .catch(error2=>{
       console.log(error2)
     })
-    axios.get('http://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=b0bad5861041416dab086246d9605041')
+    axios.get('https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=b0bad5861041416dab086246d9605041')
     .then(response3=>{
       this.setState({
         news:response3.data.articles,
