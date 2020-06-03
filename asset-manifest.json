@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/COVID19-Revised/static/css/main.7de89084.chunk.css",
-    "main.js": "/COVID19-Revised/static/js/main.99bc8f8d.chunk.js",
-    "main.js.map": "/COVID19-Revised/static/js/main.99bc8f8d.chunk.js.map",
-    "runtime-main.js": "/COVID19-Revised/static/js/runtime-main.bdd749f3.js",
-    "runtime-main.js.map": "/COVID19-Revised/static/js/runtime-main.bdd749f3.js.map",
-    "static/js/2.6cbf2e92.chunk.js": "/COVID19-Revised/static/js/2.6cbf2e92.chunk.js",
-    "static/js/2.6cbf2e92.chunk.js.map": "/COVID19-Revised/static/js/2.6cbf2e92.chunk.js.map",
+    "main.js": "/COVID19-Revised/static/js/main.a0f71aa8.chunk.js",
+    "main.js.map": "/COVID19-Revised/static/js/main.a0f71aa8.chunk.js.map",
+    "runtime-main.js": "/COVID19-Revised/static/js/runtime-main.ee72256b.js",
+    "runtime-main.js.map": "/COVID19-Revised/static/js/runtime-main.ee72256b.js.map",
+    "static/js/2.d4d686e0.chunk.js": "/COVID19-Revised/static/js/2.d4d686e0.chunk.js",
+    "static/js/2.d4d686e0.chunk.js.map": "/COVID19-Revised/static/js/2.d4d686e0.chunk.js.map",
     "index.html": "/COVID19-Revised/index.html",
-    "precache-manifest.91fe0a3615e2080a92536f1ea9469cbc.js": "/COVID19-Revised/precache-manifest.91fe0a3615e2080a92536f1ea9469cbc.js",
+    "precache-manifest.ea04977c3618b403373805fd9a409cd0.js": "/COVID19-Revised/precache-manifest.ea04977c3618b403373805fd9a409cd0.js",
     "service-worker.js": "/COVID19-Revised/service-worker.js",
     "static/css/main.7de89084.chunk.css.map": "/COVID19-Revised/static/css/main.7de89084.chunk.css.map",
-    "static/js/2.6cbf2e92.chunk.js.LICENSE.txt": "/COVID19-Revised/static/js/2.6cbf2e92.chunk.js.LICENSE.txt",
+    "static/js/2.d4d686e0.chunk.js.LICENSE.txt": "/COVID19-Revised/static/js/2.d4d686e0.chunk.js.LICENSE.txt",
     "static/media/Andhra Pradesh.png": "/COVID19-Revised/static/media/Andhra Pradesh.c03a8571.png",
     "static/media/Arunachal Pradesh.png": "/COVID19-Revised/static/media/Arunachal Pradesh.206b45b5.png",
     "static/media/Assam.png": "/COVID19-Revised/static/media/Assam.f6e93135.png",
@@ -41,9 +41,9 @@
     "static/media/emblem.png": "/COVID19-Revised/static/media/emblem.3ad22cc9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bdd749f3.js",
-    "static/js/2.6cbf2e92.chunk.js",
+    "static/js/runtime-main.ee72256b.js",
+    "static/js/2.d4d686e0.chunk.js",
     "static/css/main.7de89084.chunk.css",
-    "static/js/main.99bc8f8d.chunk.js"
+    "static/js/main.a0f71aa8.chunk.js"
   ]
 }
